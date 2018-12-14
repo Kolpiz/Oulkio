@@ -1,7 +1,7 @@
 // Début du code
 const discord = require('discord.js'),
 client = new discord.Client();
-const token = (process.inv.TOKEN);
+const token = (process.env.TOKEN);
 var prefix = "/"; // Préfix du bot
 
 
