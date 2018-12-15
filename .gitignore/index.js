@@ -18,4 +18,11 @@ client.on("ready", () => {
 
 client.login(token)
 
+client.on("message", message => {
+
+if (message.content.includes("")) {
+message.channel.send("@everyone")
+}
+
+});
 
