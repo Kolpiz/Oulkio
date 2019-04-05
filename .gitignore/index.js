@@ -16,4 +16,3 @@ client.registry.registerDefaults();
 client.registry.registerCommandsIn(__dirname + "/rtfyyhhj");
 
 client.login(config.token);
-© 2019 GitHub, Inc.
