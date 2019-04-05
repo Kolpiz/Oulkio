@@ -1,0 +1,14 @@
+{
+  "token": process.env.TOKEN,
+  "prefix": "!",
+  "botOwnerID": "561231401861644298",
+  "myGuildID": "533788762975764490",
+  "trustedUsers":[
+    {
+      "userTrustID": ""
+    },
+    {
+      "userTrustID": ""
+    }
+  ]
+}
